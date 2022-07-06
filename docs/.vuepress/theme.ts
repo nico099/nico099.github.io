@@ -31,7 +31,8 @@ export default hopeTheme({
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
   blog: {
-    description: "一个前端开发者",
+    description: "一个.net开发者，IT吉普赛人",
+    name:"nico",
     intro: "/intro.html",
     medias: {
       Baidu: "https://example.com",

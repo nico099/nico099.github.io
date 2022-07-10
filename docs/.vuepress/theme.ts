@@ -6,13 +6,13 @@ export default hopeTheme({
   hostname: "https://vuepress-theme-hope-v2-demo.mrhope.site",
 
   author: {
-    name: "Mr.Hope",
+    name: "nico",
     url: "https://mrhope.site",
   },
 
   iconAssets: "iconfont",
 
-  logo: "/logo.svg",
+  logo: "/头像.jpg",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -31,6 +31,8 @@ export default hopeTheme({
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
   blog: {
+    avatar:"/头像.jpg",
+    roundAvatar: true,
     description: "一个.net开发者，IT吉普赛人",
     name:"nico",
     intro: "/intro.html",

@@ -3,7 +3,7 @@ home: true
 layout: Blog
 icon: home
 title: 博客主页
-heroImage: /logo.svg
+heroImage: /头像.jpg
 heroText: nico的博客
 heroFullScreen: true
 tagline: 因果不能调我 阴阳不解我惑
